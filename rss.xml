@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test and Go for MymusicScores.Com]]></title>
+        <description><![CDATA[Test and Go for MymusicScores.Com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 08:43:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We don't know much about Michel Corrette. There is a list of positions he held. He was a popular teacher with many pupils. Some critics think that his arrangements are better than his original compositions! He left us several musical instruction books which give us insight into contemporary playing techniques</p>]]></description>
+            <link>undefinedwe-dont-know-much-about-michel-corrette-there-is-a-list-of/index.html</link>
+            <guid isPermaLink="false">544a7310-7f71-4245-bf6c-9b755edf3b4f</guid>
+            <pubDate>Fri, 29 Apr 2016 08:42:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
