@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test and Go for MymusicScores.Com]]></title>
         <description><![CDATA[Test and Go for MymusicScores.Com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-and-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 08:43:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 08:50:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-and-go/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kreisler's Liebesleid was composed along with two other "Old Viennese Dances" - Liebesfreud and Schön Rosmarin. These three pieces have been the staple diet of violinists since they were composed in 1910. Originally Kreisler published these three Dances as arrangements of pieces by Josef Lanner (1801 — 1843) but confessed to being the composer of these works after a reviewer told him off for playing some of his own works alongside "these pearls composed by Lanner".</p>]]></description>
+            <link>https://thegrid.ai/test-and-go/kreislers-liebesleid-was-composed-along-with-two-other-old/index.html</link>
+            <guid isPermaLink="false">e11dfd19-70d8-4ba8-b42f-cb8032692d74</guid>
+            <pubDate>Fri, 29 Apr 2016 08:50:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We don't know much about Michel Corrette. There is a list of positions he held. He was a popular teacher with many pupils. Some critics think that his arrangements are better than his original compositions! He left us several musical instruction books which give us insight into contemporary playing techniques</p>]]></description>
-            <link>undefinedwe-dont-know-much-about-michel-corrette-there-is-a-list-of/index.html</link>
+            <link>https://thegrid.ai/test-and-go/we-dont-know-much-about-michel-corrette-there-is-a-list-of/index.html</link>
             <guid isPermaLink="false">544a7310-7f71-4245-bf6c-9b755edf3b4f</guid>
             <pubDate>Fri, 29 Apr 2016 08:42:44 GMT</pubDate>
         </item>
